@@ -5,4 +5,4 @@
 3. Fixed the problematic URL
 4. Understood the game rules in the 'Game Activity'
 
-Saved in Arizona
+Survived in Arizona
